@@ -11,5 +11,6 @@ This project focuses on developing a predictive model to assess employee attriti
 
 **Performance Metrics**: Achieved strong predictive accuracy with R-squared scores exceeding 0.92 for the models, demonstrating effective prediction capabilities.
 
-**Technologies Used:** 🐍 Python | 📊 Scikit-learn | 🚀 XGBoost | 🌟 CatBoost | 🌳 Random Forest | 🗃️ Pandas | ➗ NumPy | 📈 Matplotlib | 🎨 Seaborn
+**Technologies Used:** 🐍 Python | 📊 Scikit-learn | 🚀 XGBoost | 🐱 CatBoost | 🌳 Random Forest | 🗃️ Pandas | ➗ NumPy | 📈 Matplotlib | 🎨 Seaborn
+
 
