@@ -13,8 +13,5 @@ This project focuses on developing a predictive model to assess employee attriti
 
 **Technologies Used:** 🐍 Python | 📊 Scikit-learn | 🚀 XGBoost | 🐱 CatBoost | 🌳 Random Forest | 🗃️ Pandas | ➗ NumPy | 📈 Matplotlib | 🎨 Seaborn
 
-**Technologies Used:** 
-![Python](url_to_python_icon) ![Scikit-learn](url_to_scikit_icon) ![XGBoost](url_to_xgboost_icon) ![CatBoost](url_to_catboost_icon) ![Random Forest](url_to_random_forest_icon) ![Pandas](url_to_pandas_icon) ![NumPy](url_to_numpy_icon) ![Matplotlib](url_to_matplotlib_icon) ![Seaborn](url_to_seaborn_icon)
-
 
 
