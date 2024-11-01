@@ -3,6 +3,7 @@
 This project focuses on developing a predictive model to assess employee attrition using various machine learning techniques. The model leverages key features such as employee satisfaction levels, evaluation scores, project counts, and average working hours to predict whether an employee is likely to leave the organization.
 
 **Key Features:**
+
 **Data Exploration & Preprocessing:** Analyzed the HR dataset for missing values, categorical features, and performed necessary transformations.
 
 **Model Implementation:** Implemented multiple regression models including XGBoost, CatBoost, and Random Forest, using Scikit-learn for model training and evaluation.
